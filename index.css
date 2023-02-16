@@ -15,7 +15,7 @@ h1,h2,h3{
     text-align: center;
 }
 .reply{
-    width: fit-content;
+    width: fit-content%;
     background-color: #333;
     color: #fff;
 }
@@ -28,6 +28,7 @@ box{
     background-color: #fff;
     border-style: double;
     border-radius: 10px;
+    width:25%;
 }
 box h4{
     text-align: center;
